@@ -1,3 +1,9 @@
+/*
+ *  https://leetcode.com/problems/product-of-array-except-self/
+ *  August 28th 2023
+ *  By Erik Larkin
+ */
+
 public class ProductOfArrayExceptSelf 
 {
 	public int[] productExceptSelf(int[] nums) 
