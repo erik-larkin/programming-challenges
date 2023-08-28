@@ -8,6 +8,7 @@ public class ValidAnagram {
 
 	private static int LETTERS_IN_ALPHABET = 26;
 
+	@SuppressWarnings("unused")
 	private boolean isAnagram(String s, String t) 
 	{
 		if (s.length() != t.length())
