@@ -1,6 +1,6 @@
 /*
  *  https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum/problem
- *  August 27th 2023
+ *  August 29th 2023
  *  By Erik Larkin
  */
 
