@@ -1,3 +1,9 @@
+/*
+ *  https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence/problem
+ *  August 29th 2023
+ *  By Erik Larkin
+ */
+
 import java.util.Arrays;
 
 public class ZigZagSequence {
