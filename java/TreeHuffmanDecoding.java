@@ -23,7 +23,6 @@ public class TreeHuffmanDecoding
     }
 
 	private class Node {
-		public int frequency;
 		public char data;
 		public Node left, right;
 	}
