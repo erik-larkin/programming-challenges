@@ -7,10 +7,10 @@ public class TreePreorderTraversal
 			preOrder(root.right);
 		}
     }
-}
-
-class Node {
-    int data;
-    Node left;
-    Node right;
+	
+	private class Node {
+		int data;
+		Node left;
+		Node right;
+	}
 }
